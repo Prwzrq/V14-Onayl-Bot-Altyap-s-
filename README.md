@@ -7,5 +7,6 @@ Discord Onaylı Darcard Botunun Altyapısıdır. BOTTA BAZI HATALAR MEVCUTTUR. B
   
   <b>	Github Profile <b>	
 [Valentia Github Profil](https://github.com/valentias)
+    &nbsp
 [Lyrox Github Profil](https://github.com/Prwzrq)
 
