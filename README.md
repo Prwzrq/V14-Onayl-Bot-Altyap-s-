@@ -7,4 +7,10 @@
 [Valentia Github Profil](https://github.com/valentias)
     &
 [Lyrox Github Profil](https://github.com/Prwzrq)
+    
+    
+    
+    
+  <big>   Discord Server <big>
 
+[Maxi Code Türkiye](https://discord.gg/tFQcyYmCur)
