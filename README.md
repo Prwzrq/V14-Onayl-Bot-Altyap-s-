@@ -2,8 +2,7 @@
 
 𝕷𝖞𝖗𝖔𝖝𝖓#1998 BANA ULAŞAŞABİLİRSİNİZ. :) AYARLARDAKİ HERŞEYİ DOLDURUN BİRTANE BOŞ BIRAKMAYIN HATA ALIRSINIZ.<em>
 
-<u> Bu Altyapı Lyrox Ve Valentia Tarafından Kodlanmıştır <u>	
-&nbsp
+<strike> <u> Bu Altyapı Lyrox Ve Valentia Tarafından Kodlanmıştır <u>	<strike>
   
   <b>	Github Profile <b>	
 [Valentia Github Profil](https://github.com/valentias)
