@@ -4,6 +4,8 @@ Discord Onaylı Darcard Botunun Altyapısıdır. BOTTA BAZI HATALAR MEVCUTTUR. B
 
 <u> Bu Altyapı Lyrox Ve Valentia Tarafından Kodlanmıştır <u>	
 &nbsp
-[Valentia Github Profili](https://github.com/valentias)
-
+  
+  <b>	Github Profile <b>	
+[Valentia Github Profil](https://github.com/valentias)
+[Lyrox Github Profil](https://github.com/Prwzrq)
 
